@@ -1,5 +1,5 @@
-import { currencyRequest } from './sass/js/currencyRequest';
-import { markUpSelect } from './sass/js/markUpSelect';
+import { currencyRequest } from './js/currencyRequest';
+import { markUpSelect } from './js/markUpSelect';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const input1El = document.querySelector('.converter-value1');
