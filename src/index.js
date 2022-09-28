@@ -1,6 +1,5 @@
 import { currencyRequest } from './js/currencyRequest';
 import { markUpSelect } from './js/markUpSelect';
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const input1El = document.querySelector('.converter-value1');
 const select1El = document.querySelector('.currency-name1');
